@@ -1,0 +1,19 @@
+{
+  "name": "overseas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd client & git clone https://github.com/shindousaigo/react-redux-typescript-boilerplate.git & echo '111'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shindousaigo/Integration-System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shindousaigo/Integration-System/issues"
+  },
+  "homepage": "https://github.com/shindousaigo/Integration-System#readme"
+}
