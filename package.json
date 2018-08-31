@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cd client & git clone https://github.com/shindousaigo/react-redux-typescript-boilerplate.git & echo '111'"
+    "init": "cd client & git clone https://github.com/shindousaigo/react-redux-typescript-boilerplate.git & cd git_component & git clone https://github.com/shindousaigo/animated-login.git"
   },
   "repository": {
     "type": "git",
